@@ -1,4 +1,4 @@
-name: Build Manager v4.1.0
+name: Build Manager v4.1.0xxxxxx
 
 on:
   workflow_dispatch:
